@@ -1,2 +1,3 @@
-# micro-sports-analytics-vskm
-Automated issue comment bot repository
+# Micro Sports Analytics Vskm
+
+Automated issue comment bot repository.
